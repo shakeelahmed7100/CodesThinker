@@ -7,11 +7,11 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import About from './Components/Pages/About'
 import Services from './Components/Pages/Services'
 // import WebsiteDevelopment from './Components/ServicesPages/WebsiteDevelopment'
-import ServicesDetail from './Components/Pages/servicesDetail'
+import ServicesDetail from './Components/Pages/ServicesDetail'
 import Projects from './Components/Pages/Projects'
 import Team from './Components/Pages/Team'
 // import { Connect } from 'vite'
-import Contact from './Components/Pages/contact'
+import Contact from './Components/Pages/Contact'
 
 
 
