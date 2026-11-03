@@ -2,7 +2,7 @@ import React from 'react'
 import ReadySoftware from '../AboutPages/ReadySoftware'
 import Readysoftware2 from '../AboutPages/ReadySoftware2'
 import VisionCode from '../AboutPages/VisionCode'
-import OurValue from '../AboutPages/OURVALUE'
+import OurValue from '../AboutPages/OurValue'
 import Ourclients from '../AboutPages/OurClients'
 
 const About = () => {
